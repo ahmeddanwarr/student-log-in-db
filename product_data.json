@@ -1,0 +1,321 @@
+{
+    "Color": [
+        {
+            "color_en": "Black",
+            "color_ar": "أسود",
+            "count": 132
+        },
+        {
+            "color_en": "Silver",
+            "color_ar": "فضي",
+            "count": 53
+        },
+        {
+            "color_en": "15577",
+            "color_ar": "15577",
+            "count": 48
+        },
+        {
+            "color_en": "White",
+            "color_ar": "أبيض",
+            "count": 46
+        },
+        {
+            "color_en": "Gray",
+            "color_ar": "رمادي",
+            "count": 33
+        }
+    ],
+    "Number of Drawers": [
+        {
+            "drawers_en": "4 Drawers",
+            "drawers_ar": "4 درج",
+            "count": 2
+        },
+        {
+            "drawers_en": "3 Drawers",
+            "drawers_ar": "3 درج",
+            "count": 1
+        },
+        {
+            "drawers_en": "6 Drawers",
+            "drawers_ar": "6 درج",
+            "count": 1
+        },
+        {
+            "drawers_en": "7 Drawers",
+            "drawers_ar": "7 درج",
+            "count": 1
+        }
+    ],
+    "Material Type": [
+        {
+            "material_en": "Cast Iron Supports",
+            "material_ar": "حوامل حديد زهر",
+            "count": 12
+        },
+        {
+            "material_en": "Enamel Coated Supports",
+            "material_ar": "حوامل مطلية بالمينا",
+            "count": 3
+        }
+    ],
+    "Graphics Card": [
+        {
+            "brand_en": "Intel",
+            "brand_ar": "إنتل",
+            "count": 9
+        },
+        {
+            "brand_en": "NVIDIA",
+            "brand_ar": "نيفيديا",
+            "count": 6
+        },
+        {
+            "brand_en": "AMD",
+            "brand_ar": "اي-ام-دي",
+            "count": 2
+        }
+    ],
+    "Capacity": [
+        {
+            "capacity_en": "1.5 Liters",
+            "capacity_ar": "1.5 لتر",
+            "count": 8
+        },
+        {
+            "capacity_en": "25 Liters",
+            "capacity_ar": "25 لتر",
+            "count": 4
+        },
+        {
+            "capacity_en": "1.7 Liters",
+            "capacity_ar": "1.7 لتر",
+            "count": 4
+        },
+        {
+            "capacity_en": "430 Liters",
+            "capacity_ar": "430 لتر",
+            "count": 4
+        },
+        {
+            "capacity_en": "200 Liters",
+            "capacity_ar": "200 لتر",
+            "count": 3
+        }
+    ],
+    "Spin Speed": [
+        {
+            "speed_en": "1400 RPM",
+            "speed_ar": "1400 دورة في الدقيقة",
+            "count": 17
+        },
+        {
+            "speed_en": "1200 RPM",
+            "speed_ar": "1200 دورة في الدقيقة",
+            "count": 13
+        },
+        {
+            "speed_en": "800 RPM",
+            "speed_ar": "800 دورة في الدقيقة",
+            "count": 7
+        },
+        {
+            "speed_en": "1000 RPM",
+            "speed_ar": "1000 دورة في الدقيقة",
+            "count": 2
+        },
+        {
+            "speed_en": "860 RPM",
+            "speed_ar": "860 دورة في الدقيقة",
+            "count": 2
+        }
+    ],
+    "Number of Burners": [
+        {
+            "burners_en": "5 Burners",
+            "burners_ar": "5 شعلات",
+            "count": 18
+        },
+        {
+            "burners_en": "4 Burners",
+            "burners_ar": "4 شعلات",
+            "count": 6
+        },
+        {
+            "burners_en": "2 Burners",
+            "burners_ar": "2 شعلة",
+            "count": 1
+        }
+    ],
+    "Product Type": [
+        {
+            "type_en": "Mobile Phones",
+            "type_ar": "موبايلات",
+            "count": 56
+        },
+        {
+            "type_en": "Washing Machines",
+            "type_ar": "غسالات ملابس",
+            "count": 56
+        },
+        {
+            "type_en": "Televisions",
+            "type_ar": "تلفزيونات",
+            "count": 45
+        },
+        {
+            "type_en": "Smart Watches",
+            "type_ar": "ساعات ذكية",
+            "count": 36
+        },
+        {
+            "type_en": "Refrigerators",
+            "type_ar": "ثلاجات",
+            "count": 22
+        }
+    ],
+    "Screen Size (Inches)": [
+        {
+            "size_en": "43 Inches",
+            "size_ar": "43 بوصة",
+            "count": 16
+        },
+        {
+            "size_en": "32 Inches",
+            "size_ar": "32 بوصة",
+            "count": 10
+        },
+        {
+            "size_en": "50 Inches",
+            "size_ar": "50 بوصة",
+            "count": 6
+        },
+        {
+            "size_en": "65 Inches",
+            "size_ar": "65 بوصة",
+            "count": 6
+        },
+        {
+            "size_en": "27 Inches",
+            "size_ar": "27 بوصة",
+            "count": 2
+        }
+    ],
+    "Resolution": [
+        {
+            "resolution_en": "4K UHD",
+            "resolution_ar": "4K UHD",
+            "count": 18
+        },
+        {
+            "resolution_en": "FHD",
+            "resolution_ar": "FHD",
+            "count": 15
+        },
+        {
+            "resolution_en": "HD",
+            "resolution_ar": "HD",
+            "count": 12
+        },
+        {
+            "resolution_en": "UHD",
+            "resolution_ar": "UHD",
+            "count": 1
+        },
+        {
+            "resolution_en": "WQHD",
+            "resolution_ar": "WQHD",
+            "count": 1
+        }
+    ],
+    "Image Resolution": [
+        {
+            "resolution_en": "1920x1080",
+            "resolution_ar": "1920x1080",
+            "count": 31
+        },
+        {
+            "resolution_en": "3840x2160",
+            "resolution_ar": "3840x2160",
+            "count": 19
+        },
+        {
+            "resolution_en": "1366x768",
+            "resolution_ar": "1366x768",
+            "count": 13
+        },
+        {
+            "resolution_en": "1280x720",
+            "resolution_ar": "1280x720",
+            "count": 1
+        },
+        {
+            "resolution_en": "2560x1440",
+            "resolution_ar": "2560x1440",
+            "count": 1
+        }
+    ],
+    "Remote Control Included": [
+        {
+            "option_en": "Yes",
+            "option_ar": "نعم",
+            "count": 45
+        },
+        {
+            "option_en": "No",
+            "option_ar": "لا",
+            "count": 8
+        }
+    ],
+    "USB Ports": [
+        {
+            "ports_en": "2 Ports",
+            "ports_ar": "2 منفذ",
+            "count": 26
+        },
+        {
+            "ports_en": "1 Port",
+            "ports_ar": "1 منفذ",
+            "count": 23
+        },
+        {
+            "ports_en": "3 Ports",
+            "ports_ar": "3 منافذ",
+            "count": 10
+        },
+        {
+            "ports_en": "4 Ports",
+            "ports_ar": "4 منافذ",
+            "count": 9
+        }
+    ],
+    "Screen Type": [
+        {
+            "type_en": "LED",
+            "type_ar": "ال اي دي",
+            "count": 44
+        },
+        {
+            "type_en": "AMOLED",
+            "type_ar": "اموليد",
+            "count": 9
+        },
+        {
+            "type_en": "IPS",
+            "type_ar": "اي بي اس",
+            "count": 9
+        },
+        {
+            "type_en": "TFT",
+            "type_ar": "تي اف تي",
+            "count": 6
+        },
+        {
+            "type_en": "HD",
+            "type_ar": "HD",
+            "count": 5
+        }
+    ],
+    "Screen Design": []
+}

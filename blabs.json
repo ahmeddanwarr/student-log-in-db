@@ -1,0 +1,10 @@
+{
+    "string": "string",
+    "number": 1234,
+    "bOOLEAn": true,
+    "object": {
+        "eg": "egypt",
+        "us": "saudi"
+    },
+    "array":["ahmed", 123,"anwar"]
+}
